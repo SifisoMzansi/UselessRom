@@ -1,8 +1,7 @@
 My Useless ROm
 ===========
 
-This is my first ever rom. Building fot training purposes
-
+This is my first ever rom. Building fot training purposes. hope it all goes well
 Getting Started
 ---------------
 To initialize your local repository using the LineageOS trees, use a command like this:
